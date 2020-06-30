@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.addnew{
+  background-color: rgb(220, 245, 243);
+  border: 1px rgb(223, 221, 221) solid;
+}
